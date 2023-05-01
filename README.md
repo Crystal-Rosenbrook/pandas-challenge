@@ -1,5 +1,6 @@
 # pandas-challenge
 Homework file: PyCity Schools Analysis Final.ipynb
+
 Write-up: PandasChallengeWriteup.docx
 
 Referenced course files, Slack, ChatGPT, Pandas.Pydata (https://pandas.pydata.org), GeeksforGeeks, and YouTube tutorials to complete this homework
